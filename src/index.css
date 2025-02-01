@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.dark\:bg-gray-800 {
+  @apply dark:bg-gray-800;
+}
