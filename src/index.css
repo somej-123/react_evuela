@@ -3,3 +3,22 @@
 .dark\:bg-gray-800 {
   @apply dark:bg-gray-800;
 }
+
+/* // ... existing code ... */
+
+/* 작은 데스크탑 */
+@media (max-width: 1200px) {
+  /* 스타일 정의 */
+}
+
+/* 일반 데스크탑 */
+@media (max-width: 1440px) {
+  /* 스타일 정의 */
+}
+
+/* 큰 데스크탑 */
+@media (max-width: 1920px) {
+  /* 스타일 정의 */
+}
+
+/* // ... existing code ... */
